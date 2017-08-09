@@ -11,6 +11,9 @@ matplotlib
 scikit-learn
 You will also need to have software installed to run and execute a Jupyter Notebook
 
+## Visualize
+
+To view what my current program has achieved, go through the instacart.ipynb file.
 
 ## Code
 
